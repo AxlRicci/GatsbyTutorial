@@ -13,6 +13,7 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
+  "lint": "AnyFolder/**/*.js",
   "dependencies": {
     "gatsby": "^2.19.45",
     "react": "^16.12.0",
